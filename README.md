@@ -15,3 +15,9 @@
 <h3>API Reference</h3>
 
 Quizz data: https://opentdb.com/api_config.php
+
+<h3>Authors</h3>
+https://github.com/AndreiPashinskii
+
+<h3>About me</h3>
+I am a React Frontend Developer passionate about Web3 and decentralized technologies.
