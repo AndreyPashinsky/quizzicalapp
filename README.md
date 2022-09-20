@@ -8,6 +8,10 @@
   <li>How to handle side effects (API call)</li>
 </ul>  
 
+<h3>UI screenshots</h3>
+<img src="/appScreenshots/startQuizScreen.png" />
+<img src="/appScreenshots/quizScreen.png" />
+
 <h3>API Reference</h3>
 
 Quizz data: https://opentdb.com/api_config.php
