@@ -20,4 +20,5 @@ Quizz data: https://opentdb.com/api_config.php
 https://github.com/AndreiPashinskii
 
 <h3>About me</h3>
+
 I am a React Frontend Developer passionate about Web3 and decentralized technologies.
