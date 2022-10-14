@@ -1,6 +1,6 @@
 <h1>Test your knowledge with this free Quizzical App</h1>
 
-<h3>Basic foundation of how to build interact Apps</h3>
+<h3>Basic foundation of how to build interactive Apps</h3>
 <ul>
   <li>Event listeners to React App</li>
   <li>useState, useEffect</li>
